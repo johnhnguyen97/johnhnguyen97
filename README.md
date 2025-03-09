@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=🙌Welcome&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=100&color=gradient&text=🙌Welcome&animation=fadeIn)
 
 <div align="center">
 <h1>John Nguyen</h1>
@@ -8,7 +8,7 @@
 I'm a Full Stack Developer passionate about building modern web applications 📱💻<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjohnhnguyen97%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnhnguyen97&&show_icons=true&theme=buefy)
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnhnguyen97&&show_icons=true&theme=ambient_gradient)
 
 <h3>🔥 Tech Stack 🔥</h3>
 
@@ -20,8 +20,6 @@ I'm a Full Stack Developer passionate about building modern web applications �
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
 </div>
 </td><td valign="top" width="33%">
 
@@ -46,5 +44,5 @@ I'm a Full Stack Developer passionate about building modern web applications �
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnhnguyen97&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnhnguyen97&theme=ambient_gradient&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
